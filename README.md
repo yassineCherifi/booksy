@@ -49,4 +49,5 @@ The API docs are available [here](https://booksy-api.herokuapp.com/api-docs/).
 
 ## Licence
 
+
 Booksy - Université de Bordeaux.
