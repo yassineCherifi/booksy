@@ -34,7 +34,7 @@ To run the app on a local developement environement do as follows :
 - You need to have a Google API key linked to the Google Book's API and add to the `.env` file (see `.env.example`).
 
 ## Installation
-- To run the app just run `docker-compose up`  (you need to have Docker installed).
+- To run the app, just run `docker-compose up`  (you need to have Docker installed).
 - The application is also deployed on: https://booksy-api.herokuapp.com
 
 
